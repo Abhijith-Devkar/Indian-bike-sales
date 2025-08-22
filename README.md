@@ -4,6 +4,48 @@ Indian Bikes Dashboard
 
 This project analyzes the Indian two-wheeler (bike) market using data provided in the indian bikes dashboard.xlsx file. The dataset contains details about different bikes across various Indian states, including brand, model, price, mileage, fuel type, and resale value. A dashboard is also included to visualize key insights.
 
+🎯 Project Objectives – Indian Bikes Dashboard
+
+1. Data Collection & Organization
+
+Compile detailed information about bikes across Indian states, including price, mileage, fuel type, and resale value.
+
+
+
+2. Market Analysis
+
+Identify patterns and trends in bike ownership, brand popularity, and regional preferences.
+
+
+
+3. Price & Resale Value Insights
+
+Compare initial prices with resale values to understand depreciation across brands, models, and city tiers.
+
+
+
+4. Fuel Type Comparison
+
+Analyze the distribution and performance of Petrol, Electric, and Hybrid bikes.
+
+
+
+5. Ownership & Usage Trends
+
+Study how factors like owner type, average daily distance, and registration year impact resale value.
+
+
+
+6. Dashboard Visualization
+
+Provide interactive and visual insights through a dashboard for easier interpretation of data.
+
+
+
+7. Decision Support
+
+Help buyers, sellers, and dealers make informed decisions regarding bike purchases and resale.
+
 📊 Dataset Details
 
 The dataset (Sheet1) includes the following columns:
